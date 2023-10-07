@@ -295,5 +295,19 @@
     "Github": "https://github.com/HardikPanwar",
     "FilePath": "../projects/Maze-Game/index.html",
     "Description": "A simple Fun Maze game built using HTML, CSS and Javascript"
+  },
+
+  {
+    "Name": "Ambika Mishra",
+    "Author": "Ambika Mishra",
+    "tags": [
+      "html",
+      "css",
+      "js",
+      "game"
+    ],
+    "Github": "https://github.com/Ambikagettech",
+    "FilePath": "../projects/Maze-Game/index.html",
+    "Description": "A simple Fun Maze game built using HTML, CSS and Javascript"
   }
 ]
